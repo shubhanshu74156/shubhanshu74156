@@ -1,16 +1,45 @@
-## Hi there 👋
+💻 Shubhanshu Tiwari
+Software Engineer | Backend Developer | Cloud & DevOps Enthusiast
 
-<!--
-**shubhanshu74156/shubhanshu74156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Raipur, India
+📧 shubhanshutiwari74156@gmail.com
+📞 +91 7999791954
+🔗 LinkedIn | GitHub | LeetCode
 
-Here are some ideas to get you started:
+🚀 About Me
+I am a Software Engineer with experience in designing and developing scalable backend systems, microservices, and APIs. My expertise lies in Python (Django Rest Framework), JavaScript (Node.js, Express), Cloud Computing (AWS), and database management (PostgreSQL, MySQL, MongoDB, Redis). I have a strong passion for building efficient, scalable, and high-performance applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+Programming Languages: Python, JavaScript
+Frameworks: Django Rest Framework, Express.js, React
+Databases & Caching: PostgreSQL, MySQL, MongoDB, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Firebase
+Version Control & Project Management: Git, GitHub, Bitbucket, Jira
+Architecture: Microservices, RESTful API Development
+
+📂 Featured Projects
+HealthPotli - Online Pharmacy
+Tech Stack: Django Rest Framework, PostgreSQL, Redis, Razorpay
+
+Developed a lab booking system serving 10,000+ users monthly, increasing customer engagement by 25% and generating ₹5L+ in monthly revenue.
+Integrated Razorpay for payment processing (99% success rate), boosting completed purchases by 30%.
+Built an Order Management System (OMS), reducing order processing time by 35% and minimizing order errors by 40%.
+🔗 HealthPotli
+
+BOGO - Buy One Get One Offer App
+Tech Stack: Express.js, PostgreSQL, AWS (EC2, S3), Razorpay, MSG91, Redis
+
+Developed a high-performance voucher platform handling 10,000+ daily transactions with a 98% payment success rate.
+Implemented location-based offer discovery, increasing user engagement by 20% and merchant participation by 35%.
+🔗 BOGO on Play Store
+
+📚 Education
+🎓 B.Tech in Computer Science Engineering (2019 – 2023)
+Shri Shankaracharya Institute of Professional Management and Technology, Raipur
+Percentage: 78%
+
+📫 Connect With Me
+✉️ Email: shubhanshutiwari74156@gmail.com
+🔗 LinkedIn
+💻 GitHub
+📱 LeetCode
