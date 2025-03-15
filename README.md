@@ -24,10 +24,11 @@ I'm a passionate Software Engineer with expertise in building scalable backend s
 ## 🛠️ Tech Stack
 
 
-▶ Languages:        ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white), JavaScript
-▶ Frameworks:       Django REST Framework, Express.js, React
-▶ Databases:        PostgreSQL, MySQL, MongoDB, Redis
-▶ Cloud & DevOps:   AWS (EC2, S3, Lambda), Docker, Firebase
+▶ Languages:        ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
+▶ Frameworks:       ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white), ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white), React
+▶ Databases:        ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white), MySQL, MongoDB, ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+▶ Cloud & DevOps:   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) (EC2, S3, Lambda), Docker, Firebase
 ▶ Tools:            Git, GitHub, Bitbucket, Jira
 ▶ Architecture:     Microservices, RESTful APIs
 
