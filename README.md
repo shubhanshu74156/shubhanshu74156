@@ -1,54 +1,74 @@
-💻 Shubhanshu Tiwari
-Software Engineer | Backend Developer | Cloud & DevOps Enthusiast
-📍 Raipur, India
-📧 shubhanshutiwari74156@gmail.com
-📞 +91 7999791954
-🔗 LinkedIn | GitHub | LeetCode
+# 👋 Hi, I'm Shubhanshu Tiwari
 
-🚀 About Me
-I am a Software Engineer passionate about backend development, system design, and cloud computing. With expertise in Python (Django Rest Framework), JavaScript (Node.js, Express), AWS, and database management (PostgreSQL, MySQL, MongoDB, Redis), I specialize in building high-performance, scalable applications.
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/yourusername)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/yourusername/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shubhanshutiwari74156@gmail.com)
 
-I thrive on problem-solving, API development, and microservices architecture while optimizing performance and ensuring system reliability.
+## 💻 Software Engineer | Backend Developer | Cloud & DevOps Enthusiast
 
-🛠️ Tech Stack
-💻 Programming Languages:
+I'm a passionate Software Engineer with expertise in building scalable backend systems, microservices, and APIs. I specialize in creating efficient, high-performance applications that deliver real business value.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on scalable backend architectures
+- 🌱 Continuously learning about cloud technologies and microservices
+- 💬 Ask me about backend development, API design, and cloud solutions
+- 📍 Based in Raipur, India
+- 📱 +91 7999791954
+
+---
+
+## 🛠️ Tech Stack
+
+```
+▶ Languages:        Python, JavaScript
+▶ Frameworks:       Django REST Framework, Express.js, React
+▶ Databases:        PostgreSQL, MySQL, MongoDB, Redis
+▶ Cloud & DevOps:   AWS (EC2, S3, Lambda), Docker, Firebase
+▶ Tools:            Git, GitHub, Bitbucket, Jira
+▶ Architecture:     Microservices, RESTful APIs
+```
+
+---
+
+## 📂 Featured Projects
+
+### [HealthPotli](https://healthpotli.com) - Online Pharmacy
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-3395FF?style=flat-square&logo=razorpay&logoColor=white)
 
 
-📚 Frameworks:
+### [BOGO](https://play.google.com/store/apps/details?id=com.bogoindia.bogo) - Buy One Get One Offer App
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
 
-🛢 Databases & Caching:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
+---
 
+## 📚 Education
 
-☁ Cloud & DevOps:
+### 🎓 B.Tech in Computer Science Engineering (2019 – 2023)
+**Shri Shankaracharya Institute of Professional Management and Technology, Raipur**  
+Percentage: 78%
 
+---
 
+## 📫 Let's Connect!
 
-🔧 Tools & Version Control:
+I'm always interested in collaboration and learning new technologies. Feel free to reach out!
 
-
-
-
-📂 Featured Projects
-🛒 HealthPotli - Online Pharmacy
-🛠 Tech Stack: Django Rest Framework, PostgreSQL, Redis, Razorpay
-🔗 HealthPotli
-
-🎟 BOGO - Buy One Get One Offer App
-🛠 Tech Stack: Express.js, PostgreSQL, AWS (EC2, S3), Razorpay, MSG91, Redis
-🔗 BOGO on Play Store
-
-📚 Education
-🎓 Bachelor of Technology (B.Tech) in Computer Science Engineering
-📍 Shri Shankaracharya Institute of Professional Management and Technology, Raipur
-📆 2019 – 2023 | Percentage: 78%
-
-📫 Connect With Me
-📧 Email: shubhanshutiwari74156@gmail.com
-🔗 LinkedIn: Shubhanshu Tiwari
-💻 GitHub: shubhanshu74156
-📱 LeetCode: RuruX2000
-
+[![LinkedIn Connect](https://img.shields.io/badge/-Connect_on_LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
