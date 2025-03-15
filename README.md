@@ -30,14 +30,9 @@ I'm a passionate Software Engineer with expertise in building scalable backend s
 
 ▶ **Databases:**  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white),  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white),  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white),  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)  
 
-▶ **Cloud & DevOps:**  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) (EC2, S3, Lambda),  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white),  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+▶ **Cloud & DevOps:**  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white),  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white),  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
 
-▶ **Tools:**  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white),  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white),  
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white),  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  
+▶ **Tools:**  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white),  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white),  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white),  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  
 
 ▶ **Architecture:**  ![Microservices](https://img.shields.io/badge/-Microservices-6DB33F?style=flat-square&logo=microservices&logoColor=white),  ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-ff69b4?style=flat-square&logo=api&logoColor=white) 
 
