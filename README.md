@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shubhanshu Tiwari
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/yourusername)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/yourusername/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhanshu-tiwari-61b080217/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/shubhanshu74156)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/RuruX2000/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shubhanshutiwari74156@gmail.com)
 
 ## 💻 Software Engineer | Backend Developer | Cloud & DevOps Enthusiast
@@ -53,9 +53,9 @@ I'm a passionate Software Engineer with expertise in building scalable backend s
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/shubhanshu74156)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/shubhanshu74156)
 
 ---
 
@@ -71,4 +71,4 @@ Percentage: 78%
 
 I'm always interested in collaboration and learning new technologies. Feel free to reach out!
 
-[![LinkedIn Connect](https://img.shields.io/badge/-Connect_on_LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn Connect](https://img.shields.io/badge/-Connect_on_LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhanshu-tiwari-61b080217/)
