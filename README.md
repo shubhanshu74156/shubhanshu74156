@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shubhanshu Tiwari
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhanshu-tiwari-61b080217/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/shubhanshu74156)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/shubhanshu74156/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/RuruX2000/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shubhanshutiwari74156@gmail.com)
 
@@ -51,9 +51,9 @@ I'm a passionate Software Engineer with expertise in building scalable backend s
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/shubhanshu74156)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhanshu74156&show_icons=true&theme=radical)](https://github.com/shubhanshu74156/)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/shubhanshu74156)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshu74156&layout=compact&theme=radical)](https://github.com/shubhanshu74156/)
 
 ---
 
