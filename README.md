@@ -24,7 +24,7 @@ I'm a passionate Software Engineer with expertise in building scalable backend s
 ## 🛠️ Tech Stack
 
 ```
-▶ Languages:        Python, JavaScript
+▶ Languages:        ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white), JavaScript
 ▶ Frameworks:       Django REST Framework, Express.js, React
 ▶ Databases:        PostgreSQL, MySQL, MongoDB, Redis
 ▶ Cloud & DevOps:   AWS (EC2, S3, Lambda), Docker, Firebase
