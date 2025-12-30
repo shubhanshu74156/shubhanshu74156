@@ -16,8 +16,6 @@ I'm a passionate Software Engineer with expertise in building scalable backend s
 - 🔭 Currently working on scalable backend architectures
 - 🌱 Continuously learning about cloud technologies and microservices
 - 💬 Ask me about backend development, API design, and cloud solutions
-- 📍 Based in Raipur, India
-- 📱 +91 7999791954
 
 ---
 
@@ -35,25 +33,6 @@ I'm a passionate Software Engineer with expertise in building scalable backend s
 ▶ **Tools:**  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white),  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white),  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white),  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  
 
 ▶ **Architecture:**  ![Microservices](https://img.shields.io/badge/-Microservices-6DB33F?style=flat-square&logo=microservices&logoColor=white),  ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-ff69b4?style=flat-square&logo=api&logoColor=white) 
-
----
-
-## 📂 Featured Projects
-
-### [HealthPotli](https://healthpotli.com) - Online Pharmacy
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)![Razorpay](https://img.shields.io/badge/-Razorpay-3395FF?style=flat-square&logo=razorpay&logoColor=white)
-
-
-### [BOGO](https://play.google.com/store/apps/details?id=com.bogoindia.bogo) - Buy One Get One Offer App
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhanshu74156&show_icons=true&theme=radical)](https://github.com/shubhanshu74156/)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshu74156&layout=compact&theme=radical)](https://github.com/shubhanshu74156/)
 
 ---
 
